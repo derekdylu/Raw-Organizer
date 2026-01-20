@@ -1,0 +1,3 @@
+# RAW Organizer - No external dependencies required
+# Uses only Python standard library modules:
+# - os, sys, argparse, pathlib, typing, re
